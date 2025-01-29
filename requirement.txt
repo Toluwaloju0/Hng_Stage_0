@@ -1,0 +1,6 @@
+datetime
+Requests
+Werkzeug
+Jinja2
+itsdangerous
+flask
