@@ -6,10 +6,12 @@ from datetime import datetime
 
 App = Flask(__name__)
 
+#A home route for testing
 @App.route('/')
 def home():
     return "Hello world"
 
+# The route tp return a json object containing name, date and github repo
 @App.route('/Hng_task_0', strict_slashes=False)
 def stage_0():
     cur_date = datetime.now().isoformat()
