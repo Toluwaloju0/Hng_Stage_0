@@ -13,4 +13,4 @@ An API to return the email used in HNG Tech, Date, time and GitHub repository ur
 
 #  Usage
 - request the http flask server using
-curl http://1b20fafae22c.41728a5a.alx-cod.online:4000/Hng_task_0
+curl http://toluairbnb.tech/Hng_task_0
